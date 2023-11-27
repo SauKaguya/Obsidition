@@ -367,5 +367,22 @@ a {
   .plan__description {
     font-size: 1.7rem;
   }
-  
+}
+
+
+/* media */
+.media {
+  display: flex;
+}
+
+.media__title {
+  margin: 0;
+}
+
+.media__body {
+  margin: 0 2rem;
+}
+
+.media__img {
+  margin-top: 1rem;
 }
